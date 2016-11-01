@@ -6,7 +6,7 @@ phantomjs --version
 
 
 
-PHANTOMJS_OPTS="$PHANTOMJS_OPTS"
+PHANTOMJS_OPTS="$PHANTOMJS_OPTS --webdriver=`hostname -I | awk '{print $1}'`:8910"
 
 echo 'and PHANTOMJS_OPTS: '
 echo $PHANTOMJS_OPTS
