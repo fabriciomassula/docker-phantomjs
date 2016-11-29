@@ -26,8 +26,8 @@ RUN apt-get update \
         libjpeg-dev \
     && apt-get install -y --no-install-recommends \
         haproxy \
-    && apt-get install -y --no-install-recommends \
-        squid \
+    && apt-get install -y \
+        squid3 \
     && git clone --recurse-submodules https://github.com/ariya/phantomjs /tmp/phantomjs \
     && cd /tmp/phantomjs \
     && git checkout -f tags/1.9.7 \
