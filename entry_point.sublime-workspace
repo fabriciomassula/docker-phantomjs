@@ -1,0 +1,1028 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"refre",
+				"refreshSelectionMode"
+			],
+			[
+				"close",
+				"closeIfNone"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"googl",
+				"googleLink"
+			],
+			[
+				"sea",
+				"searchOnGoogleLocal"
+			],
+			[
+				"sear",
+				"searchQuery"
+			],
+			[
+				"curren",
+				"currentTarget"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"get",
+				"getNextSuggestion"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"new",
+				"newSuggestions"
+			],
+			[
+				"UnificationMana",
+				"UnificationManagementViewTableView"
+			],
+			[
+				"prod",
+				"products"
+			],
+			[
+				"par",
+				"parentView"
+			],
+			[
+				"lett",
+				"lettIds"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"filter",
+				"filterOnlyWithReference"
+			],
+			[
+				"fil",
+				"filterStatus"
+			],
+			[
+				"Image",
+				"ImagesVerifySingleView"
+			],
+			[
+				"image",
+				"ImagesVerifySingleView"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"$rout",
+				"$routeParams\tAngularJS"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"repl",
+				"replacedCount"
+			],
+			[
+				"miss",
+				"missingCount"
+			],
+			[
+				"mark",
+				"markets"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"onmouse",
+				"onmouseover\tAttr"
+			],
+			[
+				"onmou",
+				"onmouseout\tAttr"
+			],
+			[
+				"onmo",
+				"onmousedown\tAttr"
+			],
+			[
+				"onm",
+				"onmouseover\tAttr"
+			],
+			[
+				"s",
+				"style\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "git ad",
+		"selected_items":
+		[
+			[
+				"git ad",
+				"Git: Quick Add"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git remot",
+				"Git: Remote"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git remote",
+				"Git: Remote"
+			],
+			[
+				"git remo",
+				"Git: Remote"
+			],
+			[
+				"merg",
+				"Git: Merge"
+			],
+			[
+				"mer",
+				"Git: Merge"
+			],
+			[
+				"fetch",
+				"Git: Fetch"
+			],
+			[
+				"remote",
+				"Git: Add Remote"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"new bra",
+				"Git: Checkout New Branch"
+			],
+			[
+				"ceck",
+				"Git: Checkout"
+			],
+			[
+				"git new",
+				"Git: Checkout New Branch"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"pushh",
+				"Git: Push Current Branch"
+			],
+			[
+				"chec",
+				"Git: Checkout"
+			],
+			[
+				"me",
+				"Git: Merge"
+			],
+			[
+				"mode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"new",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"COMM",
+				"Git: Commit"
+			],
+			[
+				"GIT ADD",
+				"Git: Quick Add"
+			],
+			[
+				"merge",
+				"Git: Merge"
+			],
+			[
+				"cehck",
+				"Git: Checkout"
+			],
+			[
+				"cehc",
+				"Git: Checkout"
+			],
+			[
+				"git che",
+				"Git: Checkout New Branch"
+			],
+			[
+				"amme",
+				"Git: Amend Commit"
+			],
+			[
+				"pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git check",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git amm",
+				"Git: Amend Commit"
+			],
+			[
+				"che",
+				"Git: Checkout New Branch"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"remt",
+				"Git: Remote"
+			],
+			[
+				"branc",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git ",
+				"Git: Remote"
+			],
+			[
+				"cpomm",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"checl",
+				"Git: Checkout Current File"
+			],
+			[
+				"git rem",
+				"Git: Remote"
+			],
+			[
+				"add",
+				"Git: Quick Add"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"quick ",
+				"Git: Quick Add"
+			],
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"instlal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gitg",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"amm",
+				"Git: Amend Commit"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"comii",
+				"Git: Commit history"
+			],
+			[
+				"ame",
+				"Git: Amend Commit"
+			],
+			[
+				"puh",
+				"Git: Push Current Branch"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"git ne",
+				"Git: New Branch"
+			],
+			[
+				"git am",
+				"Git: Amend Commit"
+			],
+			[
+				"chang",
+				"Git: Change Branch"
+			],
+			[
+				"git a",
+				"Git: Amend Commit"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"new ",
+				"Git: New Branch"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"git mer",
+				"Git: Merge Branch"
+			],
+			[
+				"chage",
+				"Git: Change Branch"
+			],
+			[
+				"stash",
+				"Git: Stash Changes"
+			],
+			[
+				"delete",
+				"Git: Delete Branch"
+			],
+			[
+				"git chan",
+				"Git: Change Branch"
+			],
+			[
+				"git bra",
+				"Git: New Branch"
+			],
+			[
+				"git c",
+				"Git: Merge Branch"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 421.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fabricio/teste_frigelar/www.frigelar.com.br/files/0-fri-web-application.js",
+		"/Users/fabricio/teste_frigelar/www.frigelar.com.br/ar-condicionado-split-springer-so-frio-high-wall-9000-btus-42fnca09s5-kit186/p",
+		"/Users/fabricio/teste_frigelar/www.frigelar.com.br/files/inst.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/scheduler-supplier/scheduler-supplier.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/scheduler-supplier/scheduler-supplier-hours.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/scheduler-supplier/table.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/keywords-supplier/keywords-supplier.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/products-unify-1/products-unify-suggestions-1.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/products-unify-1/products-unify-suggestions-1.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/unification-seed/unification-seed.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/unification-management/unification-management-table-seed.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/unification-seed/unification-seed-result.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/utilities.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/unification-seed/unification-seed-result.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/unification-seed/unification-seed.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/unification-seed/unification-seed-results.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/unification-management/unification-management-table-seed-tabs.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/login.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/process-dashboard/history-river.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/unification-management/unification-management-table-block.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/unification-management/unification-management.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/unification-management/unification-management.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/market-manager/market-manager.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/market-manager/table.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/market-manager/table.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/management-ip/management-ip.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/management-ip/management-ip.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/skus-supplier/skus-supplier.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/css/style.css",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/market-manager/upload.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/market-manager/market-manager.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/unification-seed/unification-seed-results.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/brand-manager/brand-manager.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/unification-seed/unification-seed-select-categories.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/images-verify/images-verify.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/configurations/loader.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/unification-seed/unification-seed-table-results.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/loggedin.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/loggedin.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/unification-seed/unification-seed-results-rows.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/unification-seed/unification-seed-table.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/unification-seed/unification-seed-table-details.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/processed-monitor/processed-monitor.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/edit-lett-product/processed-card.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/edit-lett-product/products-unifier.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/edit-lett-product/processed-card.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/processed-monitor/processed-monitor.html",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-4d6w35/2016-07-12_11-09-insights.log",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-c_7s83/2016-07-12_10-52-insights.log",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/user-wizard/user-wizard.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/edit-lett-product/edit-lett-product.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/edit-lett-product/edit-lett-product-attributes.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/edit-lett-product/edit-lett-product.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/class-manager/class-manager.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/class-manager/update.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/class-manager/update.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/skus-supplier/products.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/unification-management/unification-management-selection-mode.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/unification-management/unification-management-table.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/bower.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/unification-management/unification-management-table-seed.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/unification-management/unification-management-table.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/skus-supplier/skus-supplier.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/skus-supplier/products.js",
+		"/Users/fabricio/Desktop/lett.csv",
+		"/Users/fabricio/Desktop/proxies-crawler",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/unification-management/unification-management-table-seed-google.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/edit-lett-product/processed-data-table.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/useless-products/products-data-table.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/not-unified-products/not-unified-products.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/management-seed/management-seed.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/unification-management/unification-management-select-categories.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/products-unify-1/products-unify-1.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/products-unify-1/products-unify-1.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/products-unify-1/products-unify-card-1.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/products-unify-1/products-unify-single-1.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/products-unify-1/products-unify-card-1.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/products-unify-1/products-unify-single-not-unified-1.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/products-unify-1/products-unify-single-unified-1.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/products-unify-1/products-unify-single-unified-1.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/products-unify-1/products-unify-single-1.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/images-verify/images-verify-single.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/images-verify/images-verify-single.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/products-unify-1/products-unify-single-not-unified-1.html",
+		"/Users/fabricio/Desktop/testes elastic2",
+		"/Users/fabricio/Desktop/teste_elastic_query_grande",
+		"/Users/fabricio/Desktop/testes elastic",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/products-unify/products-unify-single.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/products-unify/products-unify.js",
+		"/Users/fabricio/Desktop/lett",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/process-dashboard/history.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/process-dashboard/process-dashboard.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/process-dashboard/process-dashboard.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/process-dashboard/crawler-clients.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/process-dashboard/only-clients.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/process-dashboard/crawler-clients-only.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/process-dashboard/crawler-clients.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/management-seed/management-seed.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/testing/testing.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/testing/testing.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/index.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/process-monitor/process-monitor.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/process-monitor/process-monitor.js",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-0p8xcf/run_crawler.sh",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-n0ivqh/run_crawler.sh",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-vx7nz5/run_crawler.sh",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/products-unify/products-unify-suggestions.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/not-unified-products/multiple-products-unifier.js",
+		"/Users/fabricio/.Trash/smart-unification/lett-sugestions.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/products-unify/products-unify-suggestions.html",
+		"/Users/fabricio/.Trash/smart-unification 10-35-19-862/lett-sugestions.js",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-f5s8pv/run_crawler.sh",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-3w9k_h/run_crawler.sh",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/css/style-theme.css",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/img/patterns/congruent_pentagon.png",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/process-monitor/spider-dialog.js",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-83tamy/2015-12-21_18-47-clients.log",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-tjs9nd/2015-12-21_17-42-clients.log",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/process-monitor/spider-dialog.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/process-monitor/spider-dialog-content.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/process-monitor/show-behaviour.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/process-monitor/show-behaviour.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/not-unified-products/not-unified-products.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/not-unified-products/products-data-table.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/not-unified-products/products-data-table.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/not-unified-products/lett-data-table.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app/views/smart-unification/lett-sugestions.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates/products-unify/products-unify-single.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js/app",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend",
+			"",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/js",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/resources/templates",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend",
+			"",
+			"/home/fabricio/projects/sublime/lett-angular",
+			"",
+			"/home/fabricio/projects/sublime/lett-angular",
+			"/home/fabricio/projects/sublime/supermerkatus/css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"craw",
+			"file",
+			"7",
+			"descont",
+			"0.93",
+			"7",
+			"12",
+			"size",
+			"fetchedResult",
+			"citiesand",
+			"byid",
+			"getmarketname",
+			"self.result",
+			"addSeed",
+			"localstorage.contactEmail",
+			"moment()",
+			"user",
+			"username",
+			"125",
+			"checked",
+			"icheck",
+			"check",
+			"lett_p",
+			"unify",
+			"550",
+			"550w",
+			"standoutdiv",
+			"standoutd",
+			"standou",
+			"uploadMarketImage",
+			"\n        uploadMarketImage",
+			"chosen",
+			"disable",
+			"len",
+			"leng",
+			"template",
+			"refreshSelectionMode",
+			"manage",
+			"views_unification_seed_results",
+			"tasks",
+			"slick",
+			"sqs",
+			"ibo",
+			"UnificationSeedResul",
+			"selec",
+			"templates",
+			"UnificationManagementTableSeedView",
+			"table",
+			"UnificationManagementTableView",
+			"ificationManagement",
+			"tablev",
+			"UnificationManagementView",
+			"CardProcessedProductView",
+			"internal_d",
+			"placeholder",
+			"insights",
+			"insights-server;",
+			"TO data;",
+			"\"",
+			"applyTemplate",
+			"renderAttributes",
+			"getLettProduct",
+			"renderModalContent",
+			"close",
+			"bootstrapMultiselect",
+			"bindMistakeLocalStorage",
+			"removeMistakeFromClass",
+			"localStorage.CLASS_LIST",
+			"mistakes",
+			"count_succ",
+			"checked",
+			"unifica",
+			"openSeedDialog",
+			"refreshSelectionMode",
+			"loading",
+			"callb",
+			"call",
+			"dialog",
+			"opens",
+			"callb",
+			"refreshTabs",
+			"close",
+			"value",
+			"refre",
+			"bootstrapt",
+			"applytemp",
+			"render",
+			"openSeedDialog",
+			"createSkusTable",
+			"trackedSKUsDigitalContent",
+			"createSkusTable",
+			"call",
+			"callstoreQueryInfo",
+			"storeQueryInfo",
+			"availableCompetitorSKUs",
+			"availableCompetitorsSKUs",
+			"storeQueryInfo",
+			"iCheck",
+			"check",
+			"saveSkuInsightsState",
+			"selectedClient",
+			"\n",
+			"onClientChange",
+			"trackedSKUs",
+			"checkedCheckbox",
+			"monitor",
+			"check",
+			"_chec",
+			"event",
+			"color.alizarin",
+			"color{",
+			"color {",
+			".color",
+			"paddin",
+			"alterProcessedProductStatus",
+			"'-'",
+			"'v'",
+			"byid",
+			"market",
+			"filteredMarkets",
+			"filterSkus",
+			"filterClass",
+			"clickedCategoryButton",
+			"search",
+			"loadPage",
+			"mode",
+			"mde",
+			"mode"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"UnificationSeedTableDetailsView",
+			"UnificationSeedTableView",
+			"UnificationSeedTableSeedView",
+			"ificationSeed",
+			"UnificationSeedView",
+			"panel",
+			"placeholder",
+			"\"insights-server\";",
+			"TO insights-server;",
+			"",
+			", ",
+			"",
+			"ck + '_' + m",
+			"\\n",
+			"",
+			"\\n",
+			"this.database",
+			"database",
+			"img/home/",
+			"img/",
+			"",
+			"img/fav/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 127.0
+	},
+	"output.git-fetch":
+	{
+		"height": 118.0
+	},
+	"output.git-merge":
+	{
+		"height": 100.0
+	},
+	"output.git-pull":
+	{
+		"height": 125.0
+	},
+	"output.git-push":
+	{
+		"height": 181.0
+	},
+	"output.git-remote":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "entry_point.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Projects/sublime/ead-backbone/project.sublime-project"
+			],
+			[
+				"serv",
+				"~/projects/sublime/hinario-servidor/servidor.sublime-project"
+			],
+			[
+				"cedin",
+				"~/projects/sublime/cedin-beta/cedin-beta.sublime-project"
+			],
+			[
+				"zepi",
+				"~/projects/sublime/zepig-backbone/zepig-backbone.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 419.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

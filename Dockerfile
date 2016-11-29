@@ -24,6 +24,10 @@ RUN apt-get update \
         libssl-dev \
         libpng-dev \
         libjpeg-dev \
+    && apt-get install -y --no-install-recommends \
+        haproxy \
+    && apt-get install -y --no-install-recommends \
+        squid \
     && git clone --recurse-submodules https://github.com/ariya/phantomjs /tmp/phantomjs \
     && cd /tmp/phantomjs \
     && git checkout -f tags/1.9.7 \
@@ -47,6 +51,10 @@ RUN apt-get update \
 # Run as non-root user
 RUN useradd --system --uid 72379 -m --shell /usr/sbin/nologin phantomjs
 USER phantomjs
+
+COPY \
+  haproxy.cfg \
+    /etc/haproxy/haproxy.cfg
 
 COPY \
   entry_point.sh \

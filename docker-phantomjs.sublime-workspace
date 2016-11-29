@@ -1,0 +1,949 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"proxies",
+				"proxies_images"
+			],
+			[
+				"id",
+				"idsList"
+			],
+			[
+				"ip",
+				"ipToDelete"
+			],
+			[
+				"info",
+				"Info"
+			],
+			[
+				"al",
+				"alreadyUnificated"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"mar",
+				"marketNumber"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"$rout",
+				"$routeParams\tAngularJS"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"repl",
+				"replacedCount"
+			],
+			[
+				"miss",
+				"missingCount"
+			],
+			[
+				"mark",
+				"markets"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"onmouse",
+				"onmouseover\tAttr"
+			],
+			[
+				"onmou",
+				"onmouseout\tAttr"
+			],
+			[
+				"onmo",
+				"onmousedown\tAttr"
+			],
+			[
+				"onm",
+				"onmouseover\tAttr"
+			],
+			[
+				"s",
+				"style\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "chec",
+		"selected_items":
+		[
+			[
+				"chec",
+				"Git: Checkout"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"merg",
+				"Git: Merge"
+			],
+			[
+				"ad",
+				"Git: Quick Add"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git remote",
+				"Git: Remote"
+			],
+			[
+				"fetch",
+				"Git: Fetch"
+			],
+			[
+				"git ad",
+				"Git: Quick Add"
+			],
+			[
+				"add",
+				"Git: Quick Add"
+			],
+			[
+				"gti add",
+				"Git: Quick Add"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"pushh",
+				"Git: Push Current Branch"
+			],
+			[
+				"pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git fetch",
+				"Git: Fetch"
+			],
+			[
+				"che",
+				"Git: Checkout"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"me",
+				"Git: Merge"
+			],
+			[
+				"mer",
+				"Git: Merge"
+			],
+			[
+				"piush",
+				"Legit: Publish"
+			],
+			[
+				"merge",
+				"Git: Merge"
+			],
+			[
+				"new br",
+				"Git: Checkout New Branch"
+			],
+			[
+				"cehck",
+				"Git: Checkout"
+			],
+			[
+				"cehc",
+				"Git: Checkout"
+			],
+			[
+				"git chec",
+				"Git: Checkout"
+			],
+			[
+				"git che",
+				"Git: Checkout New Branch"
+			],
+			[
+				"amme",
+				"Git: Amend Commit"
+			],
+			[
+				"git check",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git amm",
+				"Git: Amend Commit"
+			],
+			[
+				"git mer",
+				"Git: Merge"
+			],
+			[
+				"git me",
+				"Git: Merge"
+			],
+			[
+				"ceh",
+				"Git: Checkout"
+			],
+			[
+				"new bra",
+				"Git: Checkout New Branch"
+			],
+			[
+				"ch",
+				"Git: Checkout"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"quick ",
+				"Git: Quick Add"
+			],
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"instlal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gitg",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"amm",
+				"Git: Amend Commit"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"comii",
+				"Git: Commit history"
+			],
+			[
+				"ame",
+				"Git: Amend Commit"
+			],
+			[
+				"puh",
+				"Git: Push Current Branch"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"git ne",
+				"Git: New Branch"
+			],
+			[
+				"git am",
+				"Git: Amend Commit"
+			],
+			[
+				"chang",
+				"Git: Change Branch"
+			],
+			[
+				"git a",
+				"Git: Amend Commit"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"new ",
+				"Git: New Branch"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"chage",
+				"Git: Change Branch"
+			],
+			[
+				"stash",
+				"Git: Stash Changes"
+			],
+			[
+				"git new",
+				"Git: New Branch"
+			],
+			[
+				"delete",
+				"Git: Delete Branch"
+			],
+			[
+				"git chan",
+				"Git: Change Branch"
+			],
+			[
+				"git ",
+				"Git: Checkout Current File"
+			],
+			[
+				"git bra",
+				"Git: New Branch"
+			],
+			[
+				"git c",
+				"Git: Merge Branch"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 421.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fabricio/Documents/Projects/sublime/lett/docker-phantomjs"
+	],
+	"file_history":
+	[
+		"/Users/fabricio/git/reindexer/reindexer.js",
+		"/Users/fabricio/Downloads/teste.sh",
+		"/Users/fabricio/Downloads/run_river.sh",
+		"/Users/fabricio/git/reindexer/.gitignore",
+		"/Users/fabricio/git/reindexer/db-config.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/lett-products.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/unification.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/task.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/processed-products.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/list-control.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/ip.js",
+		"/Users/fabricio/azure_template/renovando_ip.sh",
+		"/Users/fabricio/.Trash/template_azure.json",
+		"/Users/fabricio/azure_template/criando_imagem.sh",
+		"/Users/fabricio/azure_template/template_azure.json",
+		"/Users/fabricio/azure_template/criando_proxies2.sh",
+		"/Users/fabricio/azure_template/template_azure.json.old",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/server/middleware.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/server/datasources.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/db-config.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/custom-modules/lett-psql/index.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/server/boot/get-global-info.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/global-info.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/server/model-config.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/task.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/seed.js",
+		"/Users/fabricio/Desktop/docker-selenium-grid-extras-node/docker-selenium-node.sublime-workspace",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/scripts/run_history.sh",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-frontend/panel-frontend.sublime-project",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/lett-products.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/server/datasources.production.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/db-config-amazon.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/server/component-config.production.json",
+		"/Users/fabricio/Desktop/buleia.log",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/dashboard-user.js",
+		"/Users/fabricio/Desktop/untitled.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/monitoring.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/monitoring.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/insights/insights-operator.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/insights/insights-operator.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/insights/insights-configuration.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/insights/insights-configuration.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/utils/info.js",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-dpoinq/drogasil.log",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/server/config.json",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-wncziu/.lett_env",
+		"/Users/fabricio/Downloads/Roberto.pem",
+		"/Users/fabricio/Downloads/roberto.pub",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/unification-1.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/unification-1.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/package.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/administrator.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/unification.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/seed.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/ignored-discovery-categories.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/global-info.json",
+		"/Users/fabricio/GoogleDrive/Lett/Lett_MASTER_FOLDER/DESENVOLVIMENTO_PRODUTO/Backend/Servidor_Amazon/Variaveis_ambiente_encriptadas",
+		"/Users/fabricio/Desktop/teste_chamar_jar_node.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/process-log.js",
+		"/Users/fabricio/Downloads/unificador-1/unificador.js",
+		"/Users/fabricio/Downloads/db-config.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/ip.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/administrator.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/upload.js",
+		"/Users/fabricio/GoogleDrive/Lett/Lett_MASTER_FOLDER/DESENVOLVIMENTO_PRODUTO/Backend/Lojas Lett Modelo/Imagens/redimensionar_quadrado.sh",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/utils/db-psql.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/placeholder-user.js",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-agl2n6/run_crawler.sh",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/management-ip.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models/placeholder-user.json",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-hr1m3k/2015-12-18_07-00-clients.log",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-3a4g3d/run_crawler.sh",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-tx3073/run_history.sh",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-qurkjs/run_crawler.sh",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-d3nekc/run_crawler.sh",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-2_2szb/run_crawler.sh",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-jpxcn5/run_crawler.sh",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-v2danj/run_crawler.sh",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-5kx1im/run_crawler",
+		"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/server/newrelic.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/index.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/js/app/newrelic.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/js/configurations/loader.js",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-al0uz5/run_river.sh",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/js/app/config.json",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-6lmmq9/run_river.sh",
+		"/var/folders/yj/5s03lgrs2wvf6b_6fdnlz3t40000gn/T/rsub-4o_oz8/run_river.sh",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/js/app/utilities.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/templates/monitor/main.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/js/app/views/monitor/main.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/js/app/router/router.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/js/app/views/search/complete-lett-product.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/templates/loggedin.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/js/app/views/edit/lett-product.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/templates/search/complete-lett-product.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/templates/edit/lett-product.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/js/app/views/list/lett-products-search.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/js/app/views/edit/processed-product-unify.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-frontend/resources/js/app/views/login.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/admin-server/lettPanelSecurity.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett/portal-server/package.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett/lett-server/app.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett-panel-server/lettPanelSecurity.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett-panel-server/package.json",
+		"/Users/fabricio/Documents/Projects/sublime/lett-painel-server/app.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett-painel-server/node_modules/jquery/src/data.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett-painel-server/lettPanelSecurity.js",
+		"/Users/fabricio/Downloads/Compatibilização de categorias - Geral v2.csv",
+		"/Users/fabricio/Documents/Projects/sublime/lett-painel-server/.gitignore",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/partials/checkout.html",
+		"/Users/fabricio/Downloads/apktool/apktool.sh",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/js/controllers.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/cmpt/login-modal/login-modal.html",
+		"/Users/fabricio/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/fabricio/Library/Application Support/Sublime Text 3/Packages/User/MacTerminal.sublime-settings",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/index.html",
+		"/Users/fabricio/Desktop/teste.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/js/services.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/js/filters.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/js/app.js",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/css/app-checkout.css",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/js/directives.js",
+		"/Users/fabricio/Downloads/House Of Cards (2014) S02 Season 2 Complete 720p x264 AAC-Sohu/House.Of.Cards.2014.S02E12.720p.x264-Sohu.srt",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/css/app.css",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/css/app-home.css",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/css/app-sidecart-block.css",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/partials/home.html",
+		"/Users/fabricio/Documents/Projects/sublime/lett-angular/app/cmpt/product-detail/product-detail.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-server",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-server",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/server",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-server",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/node_modules",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common/models",
+			"/Users/fabricio/Documents/Projects/sublime/lett/panel-server/common",
+			"",
+			"/home/fabricio/projects/sublime/lett-angular",
+			"",
+			"/home/fabricio/projects/sublime/lett-angular",
+			"/home/fabricio/projects/sublime/supermerkatus/css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n",
+			"  ",
+			"17XQh",
+			"7XQh",
+			"Sub-ta",
+			"type",
+			"parent",
+			"customfield_10008",
+			"story",
+			"90.0",
+			"90",
+			"shar",
+			", ",
+			"ttl",
+			"\n",
+			"riverPath",
+			"$_RIVER_ENVIRONMENT",
+			"river",
+			"elastic3",
+			"localhost",
+			"127.0.0.1",
+			"elastic3.lett.com.br",
+			"elastic3tr",
+			"elastic",
+			"getLettMarketInformations",
+			"fetchTaskData",
+			"addUnificationManagementSeed",
+			"nam",
+			"original",
+			"getTaskInformations",
+			"response.task",
+			"getUnificationSeedTasks",
+			"models",
+			".app.m",
+			"database",
+			"unify",
+			"getLettProductUnification",
+			"prepareStringToPersist",
+			"user",
+			"marketmap",
+			"disable",
+			"fetchSeedTasks",
+			"getUnificationSeedTasks",
+			"sqs",
+			"task",
+			"citiesAndMarkets",
+			"moment",
+			"Seed.",
+			"user.userna",
+			"username.u",
+			"user",
+			"mode",
+			"conso",
+			"updateGlobalInfo",
+			"marketsMap",
+			"getMarketIdByName",
+			"addunifi",
+			"aws",
+			"\n",
+			"accessKeyId",
+			"AKIAILXGZMGKACP7HFRQ",
+			"amazon",
+			"getHistoryIds",
+			"getProcessedIds",
+			"\n",
+			"      \"response\": \"Não é possível apagar o produto de ID = ",
+			"pois ele é um produto trackeado.\",",
+			"\n",
+			"elastic",
+			"isnan",
+			"queryInProcessed",
+			"getHistoryIds",
+			"9300",
+			"digital_content=",
+			"JSON.stringify(digitalContentObject, null, 0)",
+			"insertOperator",
+			"fwd",
+			"elastic2",
+			"elastic",
+			"elasticsearch",
+			"attribu",
+			"lett_class_id",
+			"attribute",
+			"prepareStringToPersist",
+			"lett_",
+			"alert",
+			"in",
+			"getAvailableCompetito",
+			"available_competitors_skus",
+			"getTrackedSKUsDigitalContent",
+			"count",
+			"array",
+			"JSON",
+			"models.",
+			"models",
+			"mongo",
+			"doc.",
+			"Operator.",
+			"mongo",
+			"verifyCitiesAndMarkets",
+			"info.",
+			" info.",
+			"info.",
+			"info",
+			"Info.",
+			"lettProduct.",
+			"mountLettProductName",
+			"lettname",
+			"lett_name",
+			"overwrite",
+			"unifypro",
+			"unifyp",
+			"unify",
+			"status",
+			"\"v\"",
+			"'v'",
+			"classs",
+			"keywords",
+			"status",
+			"unif",
+			"unify",
+			"retrieveDuplicates",
+			"\n",
+			"more_",
+			"more",
+			"query",
+			"alreadyUnifiedMarkets",
+			"queryInfo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n   ",
+			" ",
+			",",
+			"\n\n",
+			"Task.",
+			"', '",
+			", ",
+			"",
+			", ",
+			"InsightsOperator.",
+			"",
+			", ",
+			";\n",
+			"' where id=",
+			" set digital_content='",
+			"this.controller.addSeed",
+			"this.database",
+			"database",
+			"img/home/",
+			"img/",
+			"",
+			"img/fav/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 118.0
+	},
+	"output.git-commit":
+	{
+		"height": 100.0
+	},
+	"output.git-fetch":
+	{
+		"height": 118.0
+	},
+	"output.git-merge":
+	{
+		"height": 142.0
+	},
+	"output.git-pull":
+	{
+		"height": 246.0
+	},
+	"output.git-push":
+	{
+		"height": 212.0
+	},
+	"output.git-remote":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "docker-phantomjs.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Projects/sublime/ead-backbone/project.sublime-project"
+			],
+			[
+				"serv",
+				"~/projects/sublime/hinario-servidor/servidor.sublime-project"
+			],
+			[
+				"cedin",
+				"~/projects/sublime/cedin-beta/cedin-beta.sublime-project"
+			],
+			[
+				"zepi",
+				"~/projects/sublime/zepig-backbone/zepig-backbone.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 747.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 363.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
